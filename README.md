@@ -6,12 +6,6 @@ An analytical project aimed at studying the behavior of users of the MetroCar ap
 Metrocar is a ride-hailing platform similar to Uber or Bolt.  
 This project analyzes the full user funnel — from app download to leaving a review — to identify where users drop off and what factors influence retention.
 
-The analysis includes:
-- SQL-based data exploration and aggregation  
-- Excel/Google Sheets calculations  
-- Tableau dashboards for visualization  
-- A written analytical report (in Ukrainian)
-
 ---
 
 ## Objectives
@@ -51,7 +45,8 @@ The analysis includes:
 ---
 ## Files
 - `metrocar_analysis.sql` – all SQL queries used for data extraction  
-- `Metrocar_report_UA.pdf` – analytical report (in Ukrainian)  
+- `Metrocar_report_UA.pdf` – analytical report (in Ukrainian)
+- - `Metrocar_Report_EN.pdf` – analytical report (in English)   
 - [Google Sheets Calculations](https://docs.google.com/spreadsheets/d/1O8VghSd-DtZTFIJ-Vne_2BVOWs9O5q4nUwD8dC35vY0/edit?usp=sharing) – detailed metrics and pivot tables  
 - [User funnel & waiting time](https://public.tableau.com/app/profile/iryna.kucheruk/viz/Userfunnel_17488058149410/FunnelWT) (
 static Tableau dashboard)  
