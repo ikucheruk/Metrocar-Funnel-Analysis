@@ -58,8 +58,9 @@ static Tableau dashboard)
 - [Users activity](https://public.tableau.com/views/UseractivityMetrocarProject/Usersactivity?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)– interactive data visualizations 
 
 
-📊 Tableau Dashboards
-Here are screenshots of the Tableau dashboards.
+
+📊 Tableau Dashboards  
+Here are screenshots of the Tableau dashboards.  
 You can explore the interactive versions via the links above.
 
 <img width="1752" height="1076" alt="image" src="https://github.com/user-attachments/assets/45b29536-df74-40c2-aa1c-3b3d8c3300d2" />  
